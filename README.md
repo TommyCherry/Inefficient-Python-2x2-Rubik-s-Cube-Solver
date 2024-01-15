@@ -1,4 +1,4 @@
-# Inefficient-Python-2x2-Rubiks-Cube-Solver
+# Python-2x2-Rubiks-Cube-Solver
 It's exactly what the title says.
 To be more specific:
 - This is a program that you can use to solve a 2x2 Rubik's Cube.
